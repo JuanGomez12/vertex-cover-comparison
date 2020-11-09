@@ -19,7 +19,7 @@
 // defines Solver
 #include "minisat/core/Solver.h"
 
-#include "intersection-proj.hpp"
+#include "vertex-cover-proj.hpp"
 
 bool verbose = false;
 int time_out_time = 120;

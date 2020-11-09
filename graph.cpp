@@ -16,7 +16,7 @@
 #include "minisat/core/Solver.h"
 
 
-#include "ece650-proj.hpp"
+#include "vertex-cover-proj.hpp"
 
 bool verbose2 = false;
 
